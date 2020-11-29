@@ -1,0 +1,26 @@
+{
+  "name": "memes.com",
+  "version": "1.0.1",
+  "description": "Unofficial memes.com API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'working'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theabbie/memes.com.git"
+  },
+  "keywords": [
+    "theabbie",
+    "memes.com"
+  ],
+  "author": "theabbie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theabbie/memes.com/issues"
+  },
+  "homepage": "https://github.com/theabbie/memes.com#readme",
+  "dependencies": {
+    "axios": "^0.21.0"
+  }
+}
