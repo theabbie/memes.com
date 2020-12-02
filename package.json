@@ -1,6 +1,6 @@
 {
   "name": "memes.com",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Unofficial memes.com API",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/theabbie/memes.com#readme",
   "dependencies": {
-    "axios": "^0.21.0"
+    "axios": "^0.21.0",
+    "form-data": "^3.0.0"
   }
 }
